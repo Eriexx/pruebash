@@ -1,2 +1,2 @@
 #!/bin/bash
-echo adios
+echo adios y hola
